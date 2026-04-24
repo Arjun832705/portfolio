@@ -60,18 +60,5 @@ export const portfolioData = {
         live: "#"
       }
     }
-  ],
-  certifications: [
-    {
-      name: "Job Ready Cohort",
-      issuer: "Sheryians Coding School",
-      date: "Sep 2025",
-      id: "97573754"
-    },
-    {
-      name: "120 Hour Internship",
-      issuer: "Sparks To Ideas",
-      details: "Focused on MERN Stack Development"
-    }
   ]
 };
