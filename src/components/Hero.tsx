@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { ArrowDown } from 'lucide-react';
 import { portfolioData } from '@/src/data/portfolio';
-
+import resumeImage from "../WhatsApp Image 2026-04-24 at 10.35.58 AM.jpeg";
 export default function Hero() {
   return (
     <section className="relative h-screen min-h-[700px] flex items-center justify-center overflow-hidden pt-20">
@@ -59,7 +59,7 @@ export default function Hero() {
             Contact Me
           </a>
           <a
-            href={portfolioData.resumeUrl}
+            href={resumeImage}
             target="_blank"
             rel="noreferrer"
             className="w-full sm:w-auto px-10 py-4 bg-white/5 text-white/50 border border-white/10 font-semibold rounded-full hover:bg-white/10 transition-all text-sm uppercase tracking-widest text-center"
