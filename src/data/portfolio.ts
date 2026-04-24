@@ -9,8 +9,8 @@ export const portfolioData = {
   summary: "I am a MERN Stack Developer with a strong focus on building full stack web applications using MongoDB, Express.js, React, and Node.js. I have experience developing backend APIs, handling authentication and authorization, and creating efficient, scalable systems. I enjoy working on real-world projects, improving my problem-solving skills, and continuously learning new technologies to enhance my development capabilities.",
   socials: {
     github: "https://github.com/Arjun832705", // Placeholder, user didn't specify exact link but asked for Github
-    linkedin: "https://linkedin.com/", // Placeholder
-    instagram: "https://instagram.com/",
+    linkedin: "https://www.linkedin.com/in/arjun-solanki-28b2563b7?utm_source=share_via&utm_content=profile&utm_medium=member_android", // Placeholder
+    instagram: "https://instagram.com/arjun5olanki",
   },
   education: [
     {
