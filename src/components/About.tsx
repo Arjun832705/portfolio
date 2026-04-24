@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
-import { portfolioData } from '@/src/data/portfolio';
+import arjunImg from "../arjun.png";
+
 
 export default function About() {
   return (
@@ -16,7 +17,7 @@ export default function About() {
             <div className="aspect-[4/5] relative rounded-3xl overflow-hidden bg-white/5 border border-white/10 group">
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent z-10" />
               <img
-                src={portfolioData.profileImage}
+                src={arjunImg}
                 alt={portfolioData.name}
                 className="w-full h-full object-cover grayscale brightness-75 transition-all duration-700 group-hover:grayscale-0 group-hover:scale-105"
               />
