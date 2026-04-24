@@ -2,7 +2,7 @@ export const portfolioData = {
   name: "Arjun Solanki",
   role: "MERN Stack Developer",
   profileImage: "https://github.com/Arjun832705/portfolio/blob/main/src%2Farjun.png", // Replace this URL with your uploaded image path or URL
-  resumeUrl: "./src/WhatsApp Image 2026-04-24 at 10.35.58 AM.jpeg", // Add your resume link here (e.g., a PDF in your public folder)
+  resumeUrl: "https://github.com/Arjun832705/portfolio/blob/main/src%2FWhatsApp%20Image%202026-04-24%20at%2010.35.58%20AM.jpeg", // Add your resume link here (e.g., a PDF in your public folder)
   email: "arjunsolanki88k@gmail.com",
   phone: "+91 9327932831",
   location: "Junagadh, Gujarat",
