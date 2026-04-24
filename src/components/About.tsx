@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import arjunImg from "../arjun.png";
+import arjunImg from "./components/arjun.png";
 
 
 export default function About() {
