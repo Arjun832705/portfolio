@@ -12,15 +12,7 @@ export const portfolioData = {
     linkedin: "https://www.linkedin.com/in/arjun-solanki-28b2563b7?utm_source=share_via&utm_content=profile&utm_medium=member_android", // Placeholder
     instagram: "https://instagram.com/arjun5olanki",
   },
-  education: [
-    {
-      degree: "Bachelor of Science in Information Technology",
-      institution: "SSSDIIT COLLEGE - JUNAGADH",
-      period: "July 2023 - March 2026",
-      details: "Focused on building strong foundations in computer science subjects, including programming, databases, and modern web technologies.",
-      grade: "SGPA: 7.27"
-    }
-  ],
+ 
   skills: [
     {
       category: "Frontend",
