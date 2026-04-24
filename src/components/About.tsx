@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import arjunImg from "../arjun.png";
-import {portfolioData} from "../data.js"
+import {portfolioData} from "@/src/data/portfolio"
 
 export default function About() {
   return (
