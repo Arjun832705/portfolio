@@ -35,7 +35,6 @@ export default function App() {
         <About />
         <Skills />
         <Projects />
-        <Education />
         <Contact />
       </main>
 
